@@ -35,9 +35,6 @@
   "demo": "http://mottie.github.com/Keyboard/",
   "docs": "https://github.com/Mottie/Keyboard/wiki",
   "bugs": "https://github.com/Mottie/Keyboard/issues",
-  "files": [
-    "dist/**/*"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/Mottie/keyboard.git"
